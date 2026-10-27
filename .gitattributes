@@ -1,0 +1,5 @@
+# cmd needs CRLF line endings
+*.cmd text eol=crlf
+# the .cmd file is mostly PowerShell
+*.cmd linguist-language=PowerShell
+* text=auto
